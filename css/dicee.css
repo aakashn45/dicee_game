@@ -1,0 +1,33 @@
+body{
+  background-color: #222831;
+}
+.refresh{
+  color: #d8ebb5;
+  font-size: 150px;
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 60px;
+  font-family: 'Lobster', cursive;
+}
+#top{
+  background-color: #222831;
+  /* position: absolute; */
+}
+.player{
+  color: #d8ebb5;
+  text-align: center;
+  font-family: 'Comic Neue', cursive;
+}
+.image{
+/* margin: 50px auto 50px auto; */
+  width: 25%;
+  position: relative;
+  left: 250px;
+  margin-top: 50px;
+}
+.footer{
+    background-color: #222831;
+    color: #d8ebb5;
+    padding-top: 100px;
+    text-align: center;
+}
